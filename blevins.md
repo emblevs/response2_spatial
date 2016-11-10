@@ -1,6 +1,6 @@
 ## Spatial Analysis Response
 
-The redlining maps created by the Home Owners Loan Commission (HOLC) helped define and institutionalize racism and segregation in the U.S. government and in the banks. The HOLC was created in response to the Great Depression, and graded neighborhoods in order to determine which were most likely to pay loans back, and were therefore a better real estate investment for banks. The grading scale went from A/Green to D/Red with A being the most desirable, and D being the most risky investment (Hillier).
+The redlining maps created by the Home Owners Loan Corporation (HOLC) helped define and institutionalize racism and segregation in the U.S. government and in the banks. The HOLC was created in response to the Great Depression, and graded neighborhoods in order to determine which were most likely to pay loans back, and were therefore a better real estate investment for banks. The grading scale went from A/Green to D/Red with A being the most desirable, and D being the most risky investment (Hillier).
 
 The strict criteria for grading neighborhoods left little room for interpretation, and in diverse and multicultural cities like New Orleans this led to desirable and popular neighborhoods getting poor ratings. In the 1938 HOLC map, almost the entire city is covered in shades of yellow and red. 
 ![alt text](http://media.npr.org/assets/img/2016/10/19/holc-scan-small2_custom-8531e66ab54655b6e42a854bf157a7acee06928c-s900-c85.jpg)
